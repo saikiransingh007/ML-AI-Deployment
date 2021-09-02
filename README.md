@@ -41,3 +41,21 @@ After we know how to version the data, the models, the environment and how link 
 - How to the approach to data testing.
 - How to the approach to feature engineering testing.
 
+## 4. Automation 
+
+**Objectives:** 
+
+### 4.1 Automate model testing
+
+- How to automate testing with Git and [CML](https://cml.dev/).
+- Understand the processes that run after the Git Action workflow is triggered.
+
+### 4.2 Automate model performance comparison
+
+What if we want to compare the performances of two different models? Is the one that we are developing better than the one on the master branch (current best one)? 
+
+To do it automatically, we can leverage DVC pipelines. If you are interested, read:
+
+- introduction to [DVC pipelines](https://dvc.org/doc/start/data-pipelines)
+- video [Machine Learning Pipelines with DVC](https://www.youtube.com/watch?v=71IGzyH95UY)
+
