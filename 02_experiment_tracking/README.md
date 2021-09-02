@@ -1,12 +1,12 @@
 ## 2. Experiment versioning (tracking)
 
-Discuss how we could track the model based on the v2 notebook.
+How to track the model based on the v2 notebook.
 Track by saving metrics to txt. => But this only tracks model performance. 
 When we have many versions -> readability. What about env?
 
 **Objectives:**
  
-- Demonstrate how experiment tracking helps with linking the code, the results and the environment details. 
+- How experiment tracking helps with linking the code, the results and the environment details. 
 - Pay attention about how this increases the reproducibility.
 
 Dependencies:
