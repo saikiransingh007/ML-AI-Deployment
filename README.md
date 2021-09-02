@@ -72,10 +72,20 @@ We will follow [this tutorial](https://www.freecodecamp.org/news/end-to-end-mach
 
 ## 6. Data drift detection and model degradation
 
-Today we will look at the example of model performance decay. We will be using library [evidently](https://evidentlyai.com/).
+We will look at the example of model performance decay. We will be using library [evidently](https://evidentlyai.com/).
 
 **Objectives:**
 
 - See a concrete example of data drift.
-- Learn how to detect and evaluate it.
+- LHow to detect and evaluate it.
 
+## 7. End to End deployment process
+
+**Objectives**
+
+See an example of end-to-end platform.
+Deepen the notion of the pipeline and metadata.
+
+*Instructions:
+
+Follow the tutorial in the collab notebook
