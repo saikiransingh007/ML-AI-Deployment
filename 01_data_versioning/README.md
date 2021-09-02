@@ -2,8 +2,8 @@
 
 **Objectives:**
 
-- Learn how to version a dataset 
-- Learn how to use a specific version of a data in your code
+- how to version a dataset 
+- how to use a specific version of a data in your code
 - Understand the interoperability between Git and DVC 
 
 **Windows users:**
