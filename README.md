@@ -11,3 +11,11 @@
 [Conda cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 **Note:** Everything will be installed and run in this virtual environment.
+
+## 1. Data versioning with DVC
+
+**Objectives:**
+
+- how to version a dataset 
+- how to use a specific version of a data in your code
+- Understand the interoperability between Git and DVC 
