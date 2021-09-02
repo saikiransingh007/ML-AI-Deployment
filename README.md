@@ -31,3 +31,13 @@ When we have many versions -> readability. What about env?
 - How experiment tracking helps with linking the code, the results and the environment details. 
 - Pay attention about how this increases the reproducibility.
 
+## 3. Testing
+
+After we know how to version the data, the models, the environment and how link it to the source code. But we don't know it the data is what we expect and if the code behaves as it should. Let's write some tests!
+
+**Objectives:**
+
+- How to define a test function and how to write an assertion.
+- How to the approach to data testing.
+- How to the approach to feature engineering testing.
+
