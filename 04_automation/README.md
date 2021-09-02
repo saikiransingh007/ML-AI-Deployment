@@ -4,7 +4,7 @@
 
 **Objectives:** 
 
-- Learn how to automate testing with Git and [CML](https://cml.dev/).
+- How to automate testing with Git and [CML](https://cml.dev/).
 - Understand the processes that run after the Git Action workflow is triggered.
 
 **Dependency:**
