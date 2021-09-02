@@ -4,9 +4,9 @@ Now we know how to version the data, the models, the environment and how link it
 
 **Objectives:**
 
-- Learn how to define a test function and how to write an assertion.
-- Learn the approach to data testing.
-- Learn the approach to feature engineering testing.
+- How to define a test function and how to write an assertion.
+- How to the approach to data testing.
+- How to the approach to feature engineering testing.
 
 **Dependencies:**
 
