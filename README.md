@@ -62,10 +62,20 @@ To do it automatically, we can leverage DVC pipelines. If you are interested, re
 
 We will follow [this tutorial](https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/).
 
-### 5.1 Prepare and test the app locally
-
 **Objectives:**
 
 - See the steps of a model deployment.
 
+### 5.1 Prepare and test the app locally
+
 ### 5.2 Deploy to Heroku
+
+## 6. Data drift detection and model degradation
+
+Today we will look at the example of model performance decay. We will be using library [evidently](https://evidentlyai.com/).
+
+**Objectives:**
+
+- See a concrete example of data drift.
+- Learn how to detect and evaluate it.
+
