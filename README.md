@@ -58,4 +58,14 @@ To do it automatically, we can leverage DVC pipelines. If you are interested, re
 
 - introduction to [DVC pipelines](https://dvc.org/doc/start/data-pipelines)
 - video [Machine Learning Pipelines with DVC](https://www.youtube.com/watch?v=71IGzyH95UY)
+## 5. Deploy a model
 
+We will follow [this tutorial](https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/).
+
+### 5.1 Prepare and test the app locally
+
+**Objectives:**
+
+- See the steps of a model deployment.
+
+### 5.2 Deploy to Heroku
