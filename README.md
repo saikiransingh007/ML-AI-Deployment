@@ -88,5 +88,5 @@ We will look at the example of model performance decay. We will be using library
 
 **Instructions:**
 
-- Follow the tutorial in the [collab notebook](https://colab.research.google.com/github/tensorflow/tfx/blob/master/docs/tutorials/tfx/components_keras.ipynb#scrollTo=PyXjuMt8f-9u) 
+- Follow the tutorial in the [collab notebook](https://colab.research.google.com/github/tensorflow/tfx/blob/master/docs/tutorials/tfx/components_keras.ipynb#scrollTo=PyXjuMt8f-9u)
 
